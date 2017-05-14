@@ -10,6 +10,10 @@ Apple introduced a new feature in iOS 10.3 to dynamically change the app's app i
 
 NSJoker, laughofnsjoker@gmail.com
 
+## Reference
+
+https://www.hackingwithswift.com/example-code/uikit/how-to-change-your-app-icon-dynamically-with-setalternateiconname
+
 ## License
 
 Feel free to try this out!
